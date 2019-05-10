@@ -1,4 +1,4 @@
-package apps.jmp.crudtsf;
+package apps.jmp.crud_app_tsf;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("apps.jmp.crudtsf", appContext.getPackageName());
+        assertEquals("apps.jmp.crud_app_tsf", appContext.getPackageName());
     }
 }

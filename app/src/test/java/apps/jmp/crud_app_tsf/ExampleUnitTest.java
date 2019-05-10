@@ -1,4 +1,4 @@
-package apps.jmp.crudtsf;
+package apps.jmp.crud_app_tsf;
 
 import org.junit.Test;
 
